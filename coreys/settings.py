@@ -31,7 +31,7 @@ SECRET_KEY = '#$)9#*g0j-g_@c298$v&beyvp1g!weqye*s@h^f6&kw($=-(si'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sim-blog.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
